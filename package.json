@@ -2,7 +2,7 @@
     "name": "comment-tagged-templates",
     "displayName": "Comment tagged templates",
     "description": "Syntax highlighting for tagged template strings using comments to specify language",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "publisher": "bierner",
     "galleryBanner": {
         "color": "#ffffff",
@@ -89,7 +89,8 @@
                     "meta.embedded.block.dart": "dart",
                     "meta.embedded.block.glsl": "glsl",
                     "meta.embedded.block.liquid": "liquid",
-                    "meta.embedded.block.sparql": "sparql"
+                    "meta.embedded.block.sparql": "sparql",
+                    "meta.embedded.block.turtle": "turtle"
                 }
             },
             {
